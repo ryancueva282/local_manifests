@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-19.1" />
-  <project name="LineageOS/android_device_samsung_gte-common" path="device/samsung/gte-common" revision="cm-14.1" />
-  <project name="ryancueva282/android_device_samsung_gtesltetmo" path="device/samsung/a3core" remote="github" revision="main" />
-  <project name="ryancueva282/android_kernel_samsung_gtesltetmo" path="kernel/samsung/a3core" remote="github" revision="main" />
-  <project name="ryancueva282/android_vendor_samsung_gtesltetmo" path="vendor/samsung/a3core" remote="github" revision="main" />
+  <project name="ryancueva282/android_device_samsung_gte-common" path="device/samsung/gte-common" revision="main" />
+  <project name="ryancueva282/android_device_samsung_exynos3475-common" path="device/samsung/exynos3475-common" revision="main" />
+  <project name="ryancueva282/android_device_samsung_gtesltetmo" path="device/samsung/gtesltetmo" remote="github" revision="main" />
+  <project name="ryancueva282/android_kernel_samsung_gtesltetmo" path="kernel/samsung/gtesltetmo" remote="github" revision="main" />
+  <project name="ryancueva282/android_vendor_samsung_gtesltetmo" path="vendor/samsung/gtesltetmo" remote="github" revision="main" />
 </manifest>
